@@ -1,9 +1,7 @@
-### Hi there 👋
+## Hello, I'm Maniac! 👋
 
-<!--
-**manivc/manivc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Tech Stack:
+
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red"> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=264de4"> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow">
