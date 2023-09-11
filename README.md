@@ -14,4 +14,4 @@
 -->
 ## Tech Stack:
 
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red"> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=264de4"> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow">
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red"> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=264de4"> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"> <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=green"> <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=yellow"> <img src="https://img.shields.io/badge/Mongo DB-black?style=for-the-badge&logo=mongodb&logoColor=green">
